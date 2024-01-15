@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mouad Lembarek</h1>
 <h3 align="center">A Data And Software Engineer Student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" >
+<img align="right" alt="Coding" width="500" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouad-lembarek&label=Profile%20views&color=0e75b6&style=flat" alt="mouad-lembarek" /> </p>
 
