@@ -1,25 +1,25 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hello 👋, I'm Mouad LEMBAREK </h1>
-<h3 align="center">A Data And Software Engineer Student</h3>
+<h1 align="center">Hello, I'm Mouad LEMBAREK </h1>
+<h3 align="center">AI & Data Engineering Studentt</h3>
 <img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouad-lembarek&label=Profile%20views&color=0e75b6&style=flat" alt="mouad-lembarek" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mouad" target="blank"><img src="https://img.shields.io/twitter/follow/mouad?logo=twitter&style=for-the-badge" alt="mouad" /></a> </p>
 
-- 🔭 I’m currently **Bachelor of Engineeringg Student**
+- 🔭 I’m currently **AI & Data Engineering Student**
 
-- 🌱 I’m currently learning: **Python/Oracle Database/GIS/Docker**
+- I’m currently learning: **Computer Vision, ML, Deep Learning, Data Tools, BI**
 
-- 👨‍💻 All of my projects are available at [Sooon_website.com](Sooon_website.com)
+- All of my projects are available at [Sooon_website.com](Sooon_website.com)
 
-- 💬 Ask me about: **Python/Machine Learning/Statistics/Datat Analyst**
+- Ask me about: **Python/Machine Learning/Statistics/Datat Analyst**
 
-- 📫 You can contact me at **lembarek51@gmail.com**
+- You can contact me at **lembarek51@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mouad-lembarek/](https://www.linkedin.com/in/mouad-lembarek/)
+- now about my experiences [https://www.linkedin.com/in/mouad-lembarek/](https://www.linkedin.com/in/mouad-lembarek/)
 
 - ⚡ **I'm Funny and Serious :)**
 
