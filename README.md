@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Mouad%20Lembarek&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Lead%20Manager%20%40%20Cylindrique&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=200&section=header&text=Mouad%20Lembarek&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Tech%20Lead%20%40%20&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mouad-lembarek/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&height=40&lines=AI+Engineer;Software+Engineer;Lead+Manager+%40+Cylindrique;n8n+Ambassador;AI+%26+Developer+Community+Builder" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an AI Engineer & Software Engineer, and Lead Manager @ **Cylindrique**, focused on building intelligent systems, automation, and software products. I'm also an **n8n Ambassador**, passionate about AI, automation, and sharing knowledge with the developer community.
+I'm an AI Engineer & Software Engineer, and Lead Manager, focused on building intelligent systems, automation, and software products. I'm also an **n8n Ambassador**, passionate about AI, automation, and sharing knowledge with the developer community.
 
 My approach: **understand the problem → simplify it → build the solution.**
 
