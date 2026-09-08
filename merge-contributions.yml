@@ -1,0 +1,33 @@
+name: Merge contributions from both accounts
+
+on:
+  schedule:
+    - cron: "15 2 * * *"   # every day, shortly after the snake workflow
+  workflow_dispatch: {}
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate merged calendar
+        env:
+          PRIMARY_USERNAME: Mouad-Lembarek
+          PRIMARY_TOKEN: ${{ secrets.PRIMARY_TOKEN }}
+          SECOND_USERNAME: ${{ vars.SECOND_USERNAME }}
+          SECOND_TOKEN: ${{ secrets.SECOND_TOKEN }}
+        run: node scripts/merge_contributions.mjs
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
