@@ -8,7 +8,7 @@
 
 <br/>
 
-<b>Making complex problems simple.</b>
+<b>Making complex problems simple :)</b>
 
 </div>
 
@@ -38,16 +38,16 @@ Experience spans AI, software engineering, automation, data, and computer scienc
 
 ## Currently
 
-- **Lead Manager @ Cylindrique** — leading and mentoring development work on software and AI-related products
-- **n8n Ambassador** — automation, AI agents, and workflow engineering
+- **Engineering team Manager @ Cylindrique**, leading and mentoring development work on software and AI-related products
 - Studying **AI & Data Engineering** at **ENSIASD** (École Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données)
+- **n8n Ambassador & Google for developers Organiser**, automation, AI agents, and workflow engineering
 - Open to **internships, research collaborations, and full-time AI/software roles**
 
 <br/>
 
 ## Community
 
-Active in the AI and developer ecosystem through **GDG**, **n8n**, **Codex**, and **Cursor** — organizing meetups and hackathons, and sharing knowledge with the community.
+Active in the AI and developer ecosystem through **GDG**, **n8n**, **Codex**, and **Cursor** organizing meetups and hackathons, and sharing knowledge with the community.
 
 <br/>
 
@@ -93,7 +93,7 @@ I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindriqu
 
 </div>
 
-> The merge runs daily via GitHub Actions and reads both accounts through the GraphQL API — see `MERGE_CONTRIBUTIONS.md` for setup. This is the closest technique to a true single graph, since GitHub doesn't let two accounts share one native contribution calendar.
+> The merge runs daily via GitHub Actions and reads both accounts through the GraphQL API see `MERGE_CONTRIBUTIONS.md` for setup. This is the closest technique to a true single graph, since GitHub doesn't let two accounts share one native contribution calendar.
 
 <br/>
 
