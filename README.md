@@ -12,9 +12,9 @@
 
 ## About
 
-I'm an AI Engineer & Software Engineer, and Engineering Team Manager, focused on building intelligent systems, automation, and software products. I'm also an **n8n Ambassador**, passionate about AI, automation, and sharing knowledge with the developer community.
+I'm an AI & Software Engineer, Engineering Team Manager, focused on building intelligent systems, automation, and software products. I'm also an **n8n Ambassador & GDG Organiser**, passionate about AI, automation, and sharing knowledge with the developer community.
 
-My approach: **understand the problem → simplify it → build the solution.**
+My approach: **understand the problem → simplify it → build the solution → deliver value to my clients**
 
 <br/>
 
@@ -120,7 +120,6 @@ I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindriqu
 
 </div>
 
-> ⚠️ **This graph won't render until the workflow below is set up and has run once** — see `MERGE_CONTRIBUTIONS.md`. It's not broken; it's simply empty until then.
 
 <br/>
 
