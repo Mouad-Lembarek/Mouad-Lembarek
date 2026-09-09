@@ -113,12 +113,6 @@ I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindriqu
 
 </div>
 
-<div align="center">
-
-[![Mouad-Lembarek](https://img.shields.io/badge/GitHub-Mouad--Lembarek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mouad-Lembarek)
-[![Mouad-Cylindrique](https://img.shields.io/badge/GitHub-Mouad--Cylindrique-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mouad-Cylindrique)
-
-</div>
 
 <br/>
 
