@@ -120,11 +120,9 @@ I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindriqu
 
 </div>
 
-> ⚠️ **This graph won't render until the workflow below is set up and has run once** — see `MERGE_CONTRIBUTIONS.md`. It's not broken; it's simply empty until then.
-
 <br/>
 
-## Connect
+## Connect with me :)
 
 <div align="center">
 
