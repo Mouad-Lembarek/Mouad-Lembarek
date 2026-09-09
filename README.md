@@ -26,7 +26,7 @@ My approach: **understand the problem → simplify it → build the solution →
 
 </div>
 
-Experience spans AI, software engineering, automation, data, and computer science — across different technologies, industries, architectures, and problem domains.
+Experience spans AI, software engineering, automation, data, and computer science across different technologies, industries, architectures, and problem domains!
 
 
 <br/>
@@ -46,7 +46,7 @@ Experience spans AI, software engineering, automation, data, and computer scienc
 
 ## Community
 
-Leading in the AI and developer ecosystem through **GDG**, **n8n**, **Codex**, and **Cursor** — organizing meetups and hackathons, and sharing knowledge with the community.
+Leading in the AI and developer ecosystem through **GDG**, **n8n**, **Codex**, and **Cursor** organizing meetups and hackathons, and sharing knowledge with the community.
 
 <br/>
 
@@ -102,7 +102,7 @@ Leading in the AI and developer ecosystem through **GDG**, **n8n**, **Codex**, a
 
 ## Combined GitHub activity
 
-I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindrique** (Cylindrique / professional work). The calendar below merges the daily contribution counts from both into a single graph:
+I build across two accounts **Mouad-Lembarek** (main) and **Mouad-Cylindrique** (Cylindrique / professional work). The calendar below merges the daily contribution counts from both into a single graph:
 
 <div align="center">
 
