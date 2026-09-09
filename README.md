@@ -106,12 +106,7 @@ I build across two accounts — **Mouad-Lembarek** (main) and **Mouad-Cylindriqu
 
 </div>
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mouad-Lembarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mouad-Cylindrique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
 
 <div align="center">
 
