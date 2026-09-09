@@ -28,7 +28,11 @@ My approach: **understand the problem → simplify it → build the solution →
 
 Experience spans AI, software engineering, automation, data, and computer science — across different technologies, industries, architectures, and problem domains.
 
+
 <br/>
+<br/>
+<img src="assets/experience.gif" alt="my experiences" />
+
 
 ## Currently
 
